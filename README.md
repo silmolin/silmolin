@@ -1,11 +1,3 @@
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/silvina-marcela-molina-a92b311b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvinaMolina" height="30" width="40" /></a>
-</p>
-
-
 *languages and tools:*  
 
 <h3 align="left">Languages and Tools:</h3>
@@ -80,7 +72,7 @@ Hello, my name is Silvina Marcela Molina, I am a Full Stack Web developer. I am 
 <p align="center">
   <br/>
   <a href='silmolin8@gmail.com'>
-    <img src='https://img.shields.io/badge/-DaroPonce21-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:silmolin8@gmail.com'>
+    <img src='https://img.shields.io/badge/-silmolin8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:silmolin8@gmail.com'>
   </a>
   <a href="https://www.linkedin.com/in/silvina-marcela-molina-a92b311b2/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
