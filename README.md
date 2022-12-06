@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#041FF7FF&width=435&lines=Hi+there+I'm+Silvina👋%F0%9F%91%8B" alt="Typing SivinaMolina" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B72&width=435&lines=Hi+there+I'm+Silvina👋%F0%9F%91%8B" alt="Typing SivinaMolina" /></a>
 </p>
 
 
@@ -45,6 +45,16 @@ I am a Full Stack Web developer. I am a technology enthusiast. I look forward to
     </tr>
   </tbody>
 </table>
+<hr>
+<hr>
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+<hr>
 <hr>
 
 <h1 align="center">
