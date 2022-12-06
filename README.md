@@ -79,7 +79,7 @@ Hello, my name is Silvina Marcela Molina, I am a Full Stack Web developer. I am 
 
 <p align="center">
   <br/>
-  <a href='daroponce21@gmail.com'>
+  <a href='silmolin8@gmail.com'>
     <img src='https://img.shields.io/badge/-DaroPonce21-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:silmolin8@gmail.com'>
   </a>
   <a href="https://www.linkedin.com/in/silvina-marcela-molina-a92b311b2/">
