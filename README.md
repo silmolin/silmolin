@@ -1,4 +1,7 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [SILVINA!](https://github.com/silmolin) !! 
+<p align="center">
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B72&width=435&lines=Hi, +I'm+Silvina👋%F0%9F%91%8B" alt="Typing silvina" /></a>
+</p>
+
 
 </h2>
 
