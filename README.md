@@ -62,7 +62,8 @@ I am a Full Stack Web developer. I am a technology enthusiast. I look forward to
 
 <p align="center">
   <br/>
-  <a href='silmolin8@gmail.com'>
+  
+  <a href='mailto:silmolin8@gmail.com'></a>
     <img src='https://img.shields.io/badge/-silmolin8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:silmolin8@gmail.com'>
   </a>
   <a href="https://www.linkedin.com/in/silvina-marcela-molina-a92b311b2/">
