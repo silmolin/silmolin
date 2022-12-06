@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Carolinambb/Carolinambb/master/BannerCarolinaCenter.png" alt="banner silvina molina full stack">
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B72&width=435&lines=Hi+there+I'm+Silvina👋%F0%9F%91%8B" alt="Typing SivinaMolina" /></a>
 </p>
@@ -28,9 +26,3 @@ I'm passionate about learning new things to improve my skills.</h2>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carolinambb&show_icons=true&theme=gotham" alt="silvinaMolina" />
